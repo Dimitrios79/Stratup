@@ -1,2 +1,2 @@
-# Startup
-A startup repository
+# startup-of-the-year
+Starter project
