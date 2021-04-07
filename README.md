@@ -1,2 +1,2 @@
-# Stratup
+# Startup
 A startup repository
